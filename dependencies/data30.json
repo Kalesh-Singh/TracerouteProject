@@ -1,0 +1,364 @@
+[
+  {
+  
+    "web_pages": [
+      "http://www.academia.cl/"
+    ],
+    "name": "Universidad Academia de Humanismo Cristiano",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "academia.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.arquitecturaucv.cl/"
+    ],
+    "name": "Escuela de Arquitectura y Diseño",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "arquitecturaucv.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.puc.cl/"
+    ],
+    "name": "Pontificia Universidad Catolica de Chile",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "puc.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uach.cl/"
+    ],
+    "name": "Universidad Austral de Chile",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uach.cl"
+    ],
+    "country": "Chile"
+  },
+
+  {
+    "web_pages": [
+      "http://www.atlantida.edu.ar/"
+    ],
+    "name": "Universidad Atlantida Argentina",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "atlantida.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.austral.edu.ar/"
+    ],
+    "name": "Universidad Austral Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "austral.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ahmu.edu.cn/"
+    ],
+    "name": "Anhui Medical University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "ahmu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.ahnu.edu.cn/"
+    ],
+    "name": "Anhui Normal University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "ahnu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.ahsdxy.ah.edu.cn/"
+    ],
+    "name": "Anhui Technical College of Water Resources and Hydroelectric Power",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "ahsdxy.ah.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.acs.edu.au/"
+    ],
+    "name": "Australian Correspondence Schools",
+    "alpha_two_code": "AU",
+    "state-province": null,
+    "domains": [
+      "acs.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "http://www.acu.edu.au/"
+    ],
+    "name": "Australian Catholic University",
+    "alpha_two_code": "AU",
+    "state-province": null,
+    "domains": [
+      "acu.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "http://www.adelaide.edu.au/"
+    ],
+    "name": "University of Adelaide",
+    "alpha_two_code": "AU",
+    "state-province": null,
+    "domains": [
+      "adelaide.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "http://www.aaua.edu.ng/"
+    ],
+    "name": "Adekunle Ajasin University",
+    "alpha_two_code": "NG",
+    "state-province": null,
+    "domains": [
+      "aaua.edu.ng"
+    ],
+    "country": "Nigeria"
+  },
+  {
+    "web_pages": [
+      "http://www.aauekpoma.edu.ng/"
+    ],
+    "name": "Ambrose Alli University",
+    "alpha_two_code": "NG",
+    "state-province": null,
+    "domains": [
+      "aauekpoma.edu.ng"
+    ],
+    "country": "Nigeria"
+  },
+  {
+    "web_pages": [
+      "http://www.cput.ac.za/"
+    ],
+    "name": "Cape Peninsula University of Technology",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "cput.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "http://www.cut.ac.za/"
+    ],
+    "name": "Central University of Technology, Free State",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "cut.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "https://www.csuci.edu/"
+    ],
+    "name": "California State University Channel Islands",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csuci.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.calbaptist.edu/"
+    ],
+    "name": "California Baptist University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "calbaptist.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cuny.edu/"
+    ],
+    "name": "City University of New York",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.nyit.edu/"
+    ],
+    "name": "New York Institute of Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "nyit.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.baraodemaua.br/"
+    ],
+    "name": "Centro Universitário Barao de Maua",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "baraodemaua.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "http://www.brazcubas.br/"
+    ],
+    "name": "Universidade Braz Cubas",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "brazcubas.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://somaiya.edu/"
+    ],
+    "name": "Somaiya Vidyavihar",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "somaiya.edu"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://www.ncuindia.edu/"
+    ],
+    "name": "NorthCap University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "ncuindia.edu"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://www.uog.edu.gy/"
+    ],
+    "name": "University of Guyana",
+    "alpha_two_code": "GY",
+    "state-province": null,
+    "domains": [
+      "uog.edu.gy"
+    ],
+    "country": "Guyana"
+  },
+  {
+    "web_pages": [
+      "http://www.cmu.ca/"
+    ],
+    "name": "Canadian Mennonite University",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "cmu.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "http://www.cnc.bc.ca/"
+    ],
+    "name": "College of New Caledonia",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "cnc.bc.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "http://www.brad.ac.uk/"
+    ],
+    "name": "University of Bradford",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "brad.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "http://www.hs-duesseldorf.de/"
+    ],
+    "name": "Hochschule Düsseldorf",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-duesseldorf.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.fh-dortmund.de/"
+    ],
+    "name": "Fachhochschule Dortmund",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "fh-dortmund.de"
+    ],
+    "country": "Germany"
+  }
+]

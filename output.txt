@@ -1,0 +1,88 @@
+			TOP 5 SLOWEST SERVERS BY AVERAGE ROUNDTRIP TIME
+
+Name: Central University of Technology, Free State
+Server: www.cut.ac.za
+Country: South Africa
+Roundtrip time of Traceroute:
+	Average:		 380.67 ms
+	Standard Deviation:	 73.67 ms
+	Avg + (4 * Std):	 675.36 ms
+----------------------------------------------------------------------------------------------------
+Name: Anhui Technical College of Water Resources and Hydroelectric Power
+Server: www.ahsdxy.ah.edu.cn
+Country: China
+Roundtrip time of Traceroute:
+	Average:		 372.29 ms
+	Standard Deviation:	 80.25 ms
+	Avg + (4 * Std):	 693.31 ms
+----------------------------------------------------------------------------------------------------
+Name: Anhui Medical University
+Server: www.ahmu.edu.cn
+Country: China
+Roundtrip time of Traceroute:
+	Average:		 371.47 ms
+	Standard Deviation:	 67.02 ms
+	Avg + (4 * Std):	 639.56 ms
+----------------------------------------------------------------------------------------------------
+Name: Anhui Normal University
+Server: www.ahnu.edu.cn
+Country: China
+Roundtrip time of Traceroute:
+	Average:		 363.0 ms
+	Standard Deviation:	 56.55 ms
+	Avg + (4 * Std):	 589.21 ms
+----------------------------------------------------------------------------------------------------
+Name: Cape Peninsula University of Technology
+Server: www.cput.ac.za
+Country: South Africa
+Roundtrip time of Traceroute:
+	Average:		 336.01 ms
+	Standard Deviation:	 49.27 ms
+	Avg + (4 * Std):	 533.11 ms
+----------------------------------------------------------------------------------------------------
+
+
+			TOP 5 SLOWEST SERVERS BY AVG + 4 * STD ROUNDTRIP TIME
+
+Name: California Baptist University
+Server: www.calbaptist.edu
+Country: United States
+Roundtrip time of Traceroute:
+	Average:		 210.15 ms
+	Standard Deviation:	 206.0 ms
+	Avg + (4 * Std):	 1034.16 ms
+----------------------------------------------------------------------------------------------------
+Name: Anhui Technical College of Water Resources and Hydroelectric Power
+Server: www.ahsdxy.ah.edu.cn
+Country: China
+Roundtrip time of Traceroute:
+	Average:		 372.29 ms
+	Standard Deviation:	 80.25 ms
+	Avg + (4 * Std):	 693.31 ms
+----------------------------------------------------------------------------------------------------
+Name: Central University of Technology, Free State
+Server: www.cut.ac.za
+Country: South Africa
+Roundtrip time of Traceroute:
+	Average:		 380.67 ms
+	Standard Deviation:	 73.67 ms
+	Avg + (4 * Std):	 675.36 ms
+----------------------------------------------------------------------------------------------------
+Name: Universidad Academia de Humanismo Cristiano
+Server: www.academia.cl
+Country: Chile
+Roundtrip time of Traceroute:
+	Average:		 255.94 ms
+	Standard Deviation:	 102.16 ms
+	Avg + (4 * Std):	 664.58 ms
+----------------------------------------------------------------------------------------------------
+Name: Anhui Medical University
+Server: www.ahmu.edu.cn
+Country: China
+Roundtrip time of Traceroute:
+	Average:		 371.47 ms
+	Standard Deviation:	 67.02 ms
+	Avg + (4 * Std):	 639.56 ms
+----------------------------------------------------------------------------------------------------
+
+
